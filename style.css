@@ -69,7 +69,7 @@ ul li {
 }
 
 li .details {
-  max-width: 240px;
+  width: 240px;
 }
 
 .details h3 {
